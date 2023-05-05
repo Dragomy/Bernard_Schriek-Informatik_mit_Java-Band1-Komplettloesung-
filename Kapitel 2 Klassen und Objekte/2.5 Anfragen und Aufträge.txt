@@ -1,0 +1,3 @@
+Übung 2.4
+Camel case ist eine Schreibweise, bei der mehrere Wörter zusammen geschrieben werden und dabei der erste Buchstabe jedes Wortes außer dem ersten groß geschrieben wird. 
+Zum Beispiel: "MeinNameIstBernard". Diese Schreibweise wird häufig in der Informatik verwendet, um Variablen- oder Funktionsnamen lesbarer zu machen und gleichzeitig den Code kompakter zu gestalten.

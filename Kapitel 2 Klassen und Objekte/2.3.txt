@@ -1,0 +1,20 @@
+2.3 Dienste aufrufen 
+Übung 2.1
+Die Hintergrundfarbe des erzeugten Bildschirms färbt sich rot.
+Übung 2.2
+0 Schwarz
+1 Dunkelblau
+2 Türkis 
+3 Dunkelgrau
+4 Hellgrau
+5 Hellgrün
+6 WeißGrau
+7 Pink
+8 Senfgelb
+9 Beige
+10 Rot
+11 Weiß
+12 Gelb
+Übung 2.3
+
+Ja, wenn man die größe des Bildschirms anpasst passt sich die größe des Bildschirms an. 
