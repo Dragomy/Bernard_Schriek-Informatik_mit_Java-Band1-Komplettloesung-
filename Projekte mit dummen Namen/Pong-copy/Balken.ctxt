@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Balken
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Balken.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=pBildschirm\ pMaus
+comment1.target=Balken(sum.kern.Bildschirm,\ sum.kern.Maus)
+comment2.params=
+comment2.target=void\ bewege()
+comment3.params=
+comment3.target=void\ loesche()
+comment4.params=
+comment4.target=void\ zeichne()
+comment5.params=
+comment5.target=double\ gibStifth()
+comment6.params=
+comment6.target=double\ gibStiftv()
+numComments=7

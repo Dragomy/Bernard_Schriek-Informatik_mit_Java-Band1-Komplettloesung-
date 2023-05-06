@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Pulsierkugel
+comment1.params=pH\ pV\ pRichtung\ pGroesse\ pSpeed\ pBildschirm
+comment1.target=Pulsierkugel(double,\ double,\ double,\ int,\ double,\ sum.kern.Bildschirm)
+comment2.params=
+comment2.target=void\ bewege()
+numComments=3

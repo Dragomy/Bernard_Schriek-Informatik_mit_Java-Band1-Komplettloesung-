@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Raum
+comment1.params=
+comment1.target=Raum()
+comment10.params=
+comment10.target=int\ gibRaumO()
+comment11.params=
+comment11.target=boolean\ gibEnde()
+comment2.params=
+comment2.target=boolean\ gib_cconversation()
+comment3.params=
+comment3.target=java.lang.String\ gibBeschreibung()
+comment4.params=s
+comment4.target=void\ n_conversation(java.util.Scanner)
+comment5.params=
+comment5.target=boolean\ gib_gibtcc()
+comment6.params=zustand
+comment6.target=void\ setze_cconversation(boolean)
+comment7.params=
+comment7.target=int\ gibRaumN()
+comment8.params=
+comment8.target=int\ gibRaumS()
+comment9.params=
+comment9.target=int\ gibRaumW()
+numComments=12

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Wolf_1
+comment1.params=pb\ pc
+comment1.target=Wolf_1(sum.kern.Bildschirm,\ Capital_BRAAAAA_in_ROT)
+comment2.params=
+comment2.target=void\ bewege()
+comment3.params=
+comment3.target=double\ Distanz()
+comment4.params=
+comment4.target=boolean\ amlinkenrand()
+comment5.params=
+comment5.target=double\ hPosition()
+comment6.params=
+comment6.target=double\ vPosition()
+comment7.params=
+comment7.target=boolean\ amrechtenrand()
+comment8.params=
+comment8.target=boolean\ amoberenrand()
+comment9.params=
+comment9.target=boolean\ amunterenrand()
+numComments=10

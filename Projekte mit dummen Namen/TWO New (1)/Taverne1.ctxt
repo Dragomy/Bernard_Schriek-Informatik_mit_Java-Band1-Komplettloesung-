@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Taverne1
+comment1.params=
+comment1.target=Taverne1()
+comment2.params=
+comment2.target=java.lang.String\ gibBeschreibung()
+comment3.params=s
+comment3.target=void\ n_conversation(java.util.Scanner)
+comment4.params=
+comment4.target=boolean\ gib_gibtcc()
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Figurstift
+comment1.params=
+comment1.target=Figurstift()
+comment2.params=
+comment2.target=void\ zeichneRing()
+comment3.params=Seitenlaenge
+comment3.target=void\ zeichneQuadrat(double)
+comment4.params=n
+comment4.target=void\ summeDerErstenNZahlen(int)
+comment5.params=a\ b
+comment5.target=void\ summeZwischenAundB(int,\ int)
+comment6.params=g\ h
+comment6.target=void\ FlaecheninhaltDreieck(double,\ double)
+comment7.params=r
+comment7.target=void\ KreisInformationen(double)
+comment8.params=r1\ r2
+comment8.target=void\ RingInformationen(double,\ double)
+numComments=9

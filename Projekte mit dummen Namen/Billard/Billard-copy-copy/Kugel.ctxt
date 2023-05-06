@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Kugel
+comment1.params=pV\ pH\ pG\ pS
+comment1.target=Kugel(double,\ double,\ double,\ double)
+comment10.params=pGroesse
+comment10.target=void\ setzeGroesse(double)
+comment11.params=
+comment11.target=double\ gibGeschwindigkeit()
+comment12.params=pSpeed
+comment12.target=void\ setzeGeschwindigkeit(double)
+comment2.params=
+comment2.target=void\ gibFrei()
+comment3.params=
+comment3.target=void\ zeichne()
+comment4.params=
+comment4.target=void\ bewege()
+comment5.params=
+comment5.target=void\ loesche()
+comment6.params=
+comment6.target=void\ dreheUm()
+comment7.params=
+comment7.target=double\ gibHPosition()
+comment8.params=
+comment8.target=double\ gibVPosition()
+comment9.params=
+comment9.target=double\ gibGroesse()
+numComments=13
