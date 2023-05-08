@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Nummernkugel
-comment1.params=pH\ pV\ pGroesse\ pGeschwindigkeit\ pWinkel\ pBildschirm\ zNummer
-comment1.target=Nummernkugel(double,\ double,\ double,\ double,\ double,\ sum.kern.Bildschirm,\ int)
-comment2.params=
-comment2.target=void\ zeichne()
-numComments=3

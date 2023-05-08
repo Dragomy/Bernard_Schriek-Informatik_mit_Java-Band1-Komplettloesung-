@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Bremskugel
-comment1.params=pH\ pV\ pRichtung\ pGroesse\ pSpeed\ pBildschirm
-comment1.target=Bremskugel(double,\ double,\ double,\ int,\ double,\ sum.kern.Bildschirm)
-comment2.params=
-comment2.target=void\ bremse()
-comment3.params=
-comment3.target=void\ bewege()
-numComments=4

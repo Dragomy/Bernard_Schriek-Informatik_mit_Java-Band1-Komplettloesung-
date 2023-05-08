@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Reibungskugel
-comment1.params=pH\ pV\ pGroesse\ pGeschwindigkeit\ pWinkel\ pBildschirm
-comment1.target=Reibungskugel(double,\ double,\ double,\ double,\ double,\ sum.kern.Bildschirm)
-comment2.params=
-comment2.target=void\ bewege()
-numComments=3
